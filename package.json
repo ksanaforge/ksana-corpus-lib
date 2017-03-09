@@ -1,0 +1,22 @@
+{
+  "dependencies": {},
+  "description": "ksana client library for node and browserify",
+  "homepage": "https://github.com/ksanaforge/ksana2017#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "yapcheahshen",
+      "email": "yapcheahshen@gmail.com"
+    }
+  ],
+  "name": "ksana-corpus-lib",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ksanaforge/ksana2017.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
